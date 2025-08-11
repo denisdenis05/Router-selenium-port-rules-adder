@@ -30,9 +30,6 @@
 - Python 3.8+
 - Firefox browser
 - Geckodriver installed and in PATH
-- nc (netcat) for port checking
-- Linux server with systemd
-
 ---
 
 ## Installation
